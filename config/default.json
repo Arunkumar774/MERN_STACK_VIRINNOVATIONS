@@ -1,4 +1,4 @@
 {
     "mongoURI":
-        "mongodb+srv://Arunkumar:77492652@cluster0.nipnhim.mongodb.net/?retryWrites=true&w=majority"
+        "mongodb+srv://<Username>:<Password>@cluster0.nipnhim.mongodb.net/?retryWrites=true&w=majority"
 }
